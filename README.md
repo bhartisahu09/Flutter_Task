@@ -19,9 +19,6 @@ samples, guidance on mobile development, and a full API reference. -->
 
 A new Flutter project.
 
-### Download Apk  
-[Click here to download the APK - skincare_app.apk](https://drive.google.com/file/d/1ClqzEKZQ65KsCgGKMSM0ZRZaBR7wTLVr/view?usp=drive_link)
-
 ## Screenshots
 
 ### Home Screen  
